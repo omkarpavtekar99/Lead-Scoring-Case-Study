@@ -63,4 +63,5 @@ This analysis provides valuable insights into the factors influencing lead conve
 - **PDF File**: A summary report written in a word file and submitted as a PDF.
 - - **CSV File**: A output of code and submitted as a CSV. (additional file submitted for better understanding of work).
  
+**- PS:**
 **The IPYNB File is now included because last time when the case study was evaluated the python file was not evaluated properly.**
