@@ -57,7 +57,10 @@ This analysis provides valuable insights into the factors influencing lead conve
 
 ## Repository Contents
 - **Python Commented File**: Includes detailed comments and does not contain unnecessary pieces of code.
+- **IPYNB Commented File**: Includes detailed comments and does not contain unnecessary pieces of code.
 - **Word File**: Answers all the questions asked by the company in the word document provided. The word file is also converted to PDF format.
 - **Presentation**: A concise, clear, and to-the-point presentation to present the analysis (including both technical and business aspects). The presentation is also converted to PDF format.
 - **PDF File**: A summary report written in a word file and submitted as a PDF.
 - - **CSV File**: A output of code and submitted as a CSV. (additional file submitted for better understanding of work).
+ 
+**The IPYNB File is now included because last time when the case study was evaluated the python file was not evaluated properly.**
